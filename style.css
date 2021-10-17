@@ -1,0 +1,15 @@
+#search{
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 20%;
+}
+
+#match-list{
+    width: 100px;
+    margin: auto 44%;
+}
+#match-list ul li {
+    color: red;
+    list-style-type: none;
+}
